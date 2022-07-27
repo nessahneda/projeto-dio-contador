@@ -1,4 +1,4 @@
-# projeto-dio-contador
+# Contador
 Projeto Bootcamp Santander em parceria com a DIO - Contador - Pratica com JavaScript. 👩‍💻
 
 Desafios propostos e executados: 
